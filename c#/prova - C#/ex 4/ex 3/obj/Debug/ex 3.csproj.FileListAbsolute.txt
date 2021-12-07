@@ -1,0 +1,6 @@
+C:\Users\disrct\Desktop\prova\ex 3\ex 3\bin\Debug\ex 3.exe.config
+C:\Users\disrct\Desktop\prova\ex 3\ex 3\bin\Debug\ex 3.exe
+C:\Users\disrct\Desktop\prova\ex 3\ex 3\bin\Debug\ex 3.pdb
+C:\Users\disrct\Desktop\prova\ex 3\ex 3\obj\Debug\ex 3.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\prova\ex 3\ex 3\obj\Debug\ex 3.exe
+C:\Users\disrct\Desktop\prova\ex 3\ex 3\obj\Debug\ex 3.pdb

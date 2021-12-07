@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\Questão2Prova\Questão2Prova\bin\Debug\Questão2Prova.exe.config
+C:\Users\disrct\Desktop\Questão2Prova\Questão2Prova\bin\Debug\Questão2Prova.exe
+C:\Users\disrct\Desktop\Questão2Prova\Questão2Prova\bin\Debug\Questão2Prova.pdb
+C:\Users\disrct\Desktop\Questão2Prova\Questão2Prova\obj\Debug\Questão2Prova.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Questão2Prova\Questão2Prova\obj\Debug\Questão2Prova.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Questão2Prova\Questão2Prova\obj\Debug\Questão2Prova.exe
+C:\Users\disrct\Desktop\Questão2Prova\Questão2Prova\obj\Debug\Questão2Prova.pdb

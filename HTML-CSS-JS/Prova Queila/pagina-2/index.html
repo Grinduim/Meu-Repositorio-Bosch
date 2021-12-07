@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+</head>
+<body>
+
+    <nav class="header-container">
+        <h1 class="header-titulo">Robert  </h1>
+        <h1 class="titulo-gradiente"> Bosch </h1>
+        <h1 class="header-titulo">Ltda- Desenvolvimento de Sistemas</h1>
+        <a class= "inicio" href="file:///C:/Users/disrct/Desktop/pagina_principal/index.html">Pagina Inicial</a>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>   
+    </nav>
+
+    <div>
+        <div class="form">
+            <form >
+                <label>Nome:</label><br>
+                <input type="text" size="64"><br>
+                <label>Idade</label><br>
+                <input type="text" size="64"><br>
+                <label>E-mail:</label><br>
+                <input type="text" size="64"><br><br>
+                 
+              </form> 
+        </div>
+        <p class="btn">Inscrever</p>
+
+      
+         </div>
+   
+    <script type="text/javascript">     
+    var Qtd = 5;
+
+    $('.btn').click(function(){
+
+        if(Qtd >= 0)
+        {
+            alert("cadastro realizado");
+            Qtd-1;
+        }
+        else{
+            $('.btn').removeClass('btn').addClass('btn-desativado');
+            alert("As vagas esgotaram");
+          }
+        });
+
+    </script>
+</body>
+</html>

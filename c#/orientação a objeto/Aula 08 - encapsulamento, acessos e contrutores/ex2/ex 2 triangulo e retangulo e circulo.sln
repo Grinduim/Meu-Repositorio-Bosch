@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex 2 triangulo e retangulo e circulo", "ex 2 triangulo e retangulo e circulo\ex 2 triangulo e retangulo e circulo.csproj", "{77ED2013-1612-4DB1-9A55-42BE760A24B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77ED2013-1612-4DB1-9A55-42BE760A24B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ED2013-1612-4DB1-9A55-42BE760A24B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ED2013-1612-4DB1-9A55-42BE760A24B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ED2013-1612-4DB1-9A55-42BE760A24B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA4281AB-A77A-4AEE-AF06-6A1CE4861B00}
+	EndGlobalSection
+EndGlobal

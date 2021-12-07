@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\ex 11 func data\ex 11 func data\bin\Debug\ex 11 func data.exe.config
+C:\Users\disrct\Desktop\ex 11 func data\ex 11 func data\bin\Debug\ex 11 func data.exe
+C:\Users\disrct\Desktop\ex 11 func data\ex 11 func data\bin\Debug\ex 11 func data.pdb
+C:\Users\disrct\Desktop\ex 11 func data\ex 11 func data\obj\Debug\ex 11 func data.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\ex 11 func data\ex 11 func data\obj\Debug\ex 11 func data.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\ex 11 func data\ex 11 func data\obj\Debug\ex 11 func data.exe
+C:\Users\disrct\Desktop\ex 11 func data\ex 11 func data\obj\Debug\ex 11 func data.pdb

@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\q4 prova\q4 prova\bin\Debug\q4 prova.exe.config
+C:\Users\disrct\Desktop\q4 prova\q4 prova\bin\Debug\q4 prova.exe
+C:\Users\disrct\Desktop\q4 prova\q4 prova\bin\Debug\q4 prova.pdb
+C:\Users\disrct\Desktop\q4 prova\q4 prova\obj\Debug\q4 prova.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\q4 prova\q4 prova\obj\Debug\q4 prova.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\q4 prova\q4 prova\obj\Debug\q4 prova.exe
+C:\Users\disrct\Desktop\q4 prova\q4 prova\obj\Debug\q4 prova.pdb

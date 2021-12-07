@@ -1,0 +1,6 @@
+C:\Users\disrct\Desktop\q6 prova\q6 prova\obj\Debug\q6 prova.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\q6 prova\q6 prova\bin\Debug\q6 prova.exe.config
+C:\Users\disrct\Desktop\q6 prova\q6 prova\bin\Debug\q6 prova.exe
+C:\Users\disrct\Desktop\q6 prova\q6 prova\bin\Debug\q6 prova.pdb
+C:\Users\disrct\Desktop\q6 prova\q6 prova\obj\Debug\q6 prova.exe
+C:\Users\disrct\Desktop\q6 prova\q6 prova\obj\Debug\q6 prova.pdb

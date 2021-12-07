@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\prova\ex 8\ex 8\bin\Debug\ex 8.exe.config
+C:\Users\disrct\Desktop\prova\ex 8\ex 8\bin\Debug\ex 8.exe
+C:\Users\disrct\Desktop\prova\ex 8\ex 8\bin\Debug\ex 8.pdb
+C:\Users\disrct\Desktop\prova\ex 8\ex 8\obj\Debug\ex 8.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\prova\ex 8\ex 8\obj\Debug\ex 8.exe
+C:\Users\disrct\Desktop\prova\ex 8\ex 8\obj\Debug\ex 8.pdb
+C:\Users\disrct\Desktop\prova\ex 8\ex 8\obj\Debug\ex 8.csproj.AssemblyReference.cache

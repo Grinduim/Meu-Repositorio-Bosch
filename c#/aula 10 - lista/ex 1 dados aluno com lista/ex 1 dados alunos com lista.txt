@@ -1,0 +1,60 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace teste
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            List<string> LNome = new List<string>();
+
+            List<string> LEndeço = new List<string>();
+
+            List<string> LNumero = new List<string>();
+
+            int w1 = 0;
+
+            while(w1 < 1)
+            {
+                Console.WriteLine("\nInsira o nome do aluno");
+                string nome = Console.ReadLine();
+
+                Console.WriteLine("\nInsira o endeço");
+                string endeço = Console.ReadLine();
+
+                Console.WriteLine("\nInsira o telefone");
+                string telefone = Console.ReadLine();
+
+                Aluno AlunoTest = new Aluno(nome,endeço,telefone);
+
+                LNome.Add(AlunoTest.GetNome());
+                LEndeço.Add(AlunoTest.GetEndeço());
+                LNumero.Add(AlunoTest.GetTelefone());
+
+                Console.WriteLine("\nVocê deseja continua ? 1 para sim 2 para não");
+                int opc = int.Parse(Console.ReadLine());
+
+                if(opc == 1)
+                {
+                    continue;
+                }
+                else
+                {
+                    w1 = 1;
+                }
+            }
+
+            for(int aux = 0; aux < LNome.Count(); aux++)
+            {
+                Console.WriteLine($"\nNo {aux + 1}º lugar você inseriu {LNome[aux]} que mora no endeço {LEndeço[aux]}" +
+                    $" e tem o numero {LNumero[aux]}");
+            }
+            Console.WriteLine("\n");
+
+        }
+    }
+}

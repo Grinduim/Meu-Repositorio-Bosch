@@ -1,0 +1,6 @@
+C:\Users\disrct\Desktop\prova\exericio 7\exericio 7\obj\Debug\exericio 7.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\prova\exericio 7\exericio 7\bin\Debug\exericio 7.exe.config
+C:\Users\disrct\Desktop\prova\exericio 7\exericio 7\bin\Debug\exericio 7.exe
+C:\Users\disrct\Desktop\prova\exericio 7\exericio 7\bin\Debug\exericio 7.pdb
+C:\Users\disrct\Desktop\prova\exericio 7\exericio 7\obj\Debug\exericio 7.exe
+C:\Users\disrct\Desktop\prova\exericio 7\exericio 7\obj\Debug\exericio 7.pdb

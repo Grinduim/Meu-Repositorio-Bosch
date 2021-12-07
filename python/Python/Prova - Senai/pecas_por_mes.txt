@@ -1,0 +1,12 @@
+Janeiro:  10peças fabricadas.
+Fevereiro:  20peças fabricadas.
+Março:  30peças fabricadas.
+Abril:  40peças fabricadas.
+Maio:  50peças fabricadas.
+Junho:  60peças fabricadas.
+Julho:  70peças fabricadas.
+Agosto:  80peças fabricadas.
+Setembro:  90peças fabricadas.
+Outubro:  100peças fabricadas.
+Novembro:  120peças fabricadas.
+Dezembro:  110peças fabricadas.

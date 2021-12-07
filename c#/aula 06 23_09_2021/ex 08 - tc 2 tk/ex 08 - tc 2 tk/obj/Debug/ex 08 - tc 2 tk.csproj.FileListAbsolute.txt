@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\ex 08 - tc 2 tk\ex 08 - tc 2 tk\bin\Debug\ex 08 - tc 2 tk.exe.config
+C:\Users\disrct\Desktop\ex 08 - tc 2 tk\ex 08 - tc 2 tk\bin\Debug\ex 08 - tc 2 tk.exe
+C:\Users\disrct\Desktop\ex 08 - tc 2 tk\ex 08 - tc 2 tk\bin\Debug\ex 08 - tc 2 tk.pdb
+C:\Users\disrct\Desktop\ex 08 - tc 2 tk\ex 08 - tc 2 tk\obj\Debug\ex 08 - tc 2 tk.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\ex 08 - tc 2 tk\ex 08 - tc 2 tk\obj\Debug\ex 08 - tc 2 tk.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\ex 08 - tc 2 tk\ex 08 - tc 2 tk\obj\Debug\ex 08 - tc 2 tk.exe
+C:\Users\disrct\Desktop\ex 08 - tc 2 tk\ex 08 - tc 2 tk\obj\Debug\ex 08 - tc 2 tk.pdb

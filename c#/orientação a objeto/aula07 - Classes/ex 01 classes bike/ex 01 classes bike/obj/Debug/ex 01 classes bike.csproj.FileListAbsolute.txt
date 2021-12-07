@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\ex 01 classes bike\ex 01 classes bike\bin\Debug\ex 01 classes bike.exe.config
+C:\Users\disrct\Desktop\ex 01 classes bike\ex 01 classes bike\bin\Debug\ex 01 classes bike.exe
+C:\Users\disrct\Desktop\ex 01 classes bike\ex 01 classes bike\bin\Debug\ex 01 classes bike.pdb
+C:\Users\disrct\Desktop\ex 01 classes bike\ex 01 classes bike\obj\Debug\ex 01 classes bike.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\ex 01 classes bike\ex 01 classes bike\obj\Debug\ex 01 classes bike.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\ex 01 classes bike\ex 01 classes bike\obj\Debug\ex 01 classes bike.exe
+C:\Users\disrct\Desktop\ex 01 classes bike\ex 01 classes bike\obj\Debug\ex 01 classes bike.pdb

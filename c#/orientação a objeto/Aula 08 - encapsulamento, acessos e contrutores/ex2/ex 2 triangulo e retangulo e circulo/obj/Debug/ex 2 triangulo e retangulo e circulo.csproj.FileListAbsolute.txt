@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\ex 2 triangulo e retangulo e circulo\ex 2 triangulo e retangulo e circulo\obj\Debug\ex 2 triangulo e retangulo e circulo.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\ex 2 triangulo e retangulo e circulo\ex 2 triangulo e retangulo e circulo\obj\Debug\ex 2 triangulo e retangulo e circulo.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\ex 2 triangulo e retangulo e circulo\ex 2 triangulo e retangulo e circulo\bin\Debug\ex 2 triangulo e retangulo e circulo.exe.config
+C:\Users\disrct\Desktop\ex 2 triangulo e retangulo e circulo\ex 2 triangulo e retangulo e circulo\bin\Debug\ex 2 triangulo e retangulo e circulo.exe
+C:\Users\disrct\Desktop\ex 2 triangulo e retangulo e circulo\ex 2 triangulo e retangulo e circulo\bin\Debug\ex 2 triangulo e retangulo e circulo.pdb
+C:\Users\disrct\Desktop\ex 2 triangulo e retangulo e circulo\ex 2 triangulo e retangulo e circulo\obj\Debug\ex 2 triangulo e retangulo e circulo.exe
+C:\Users\disrct\Desktop\ex 2 triangulo e retangulo e circulo\ex 2 triangulo e retangulo e circulo\obj\Debug\ex 2 triangulo e retangulo e circulo.pdb

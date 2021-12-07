@@ -1,0 +1,10 @@
+C:\Users\disrct\Desktop\blackjackwf\blackjackwf\obj\Debug\blackjackwf.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\blackjackwf\blackjackwf\obj\Debug\blackjackwf.Form1.resources
+C:\Users\disrct\Desktop\blackjackwf\blackjackwf\obj\Debug\blackjackwf.Properties.Resources.resources
+C:\Users\disrct\Desktop\blackjackwf\blackjackwf\obj\Debug\blackjackwf.csproj.GenerateResource.cache
+C:\Users\disrct\Desktop\blackjackwf\blackjackwf\obj\Debug\blackjackwf.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\blackjackwf\blackjackwf\bin\Debug\blackjackwf.exe.config
+C:\Users\disrct\Desktop\blackjackwf\blackjackwf\bin\Debug\blackjackwf.exe
+C:\Users\disrct\Desktop\blackjackwf\blackjackwf\bin\Debug\blackjackwf.pdb
+C:\Users\disrct\Desktop\blackjackwf\blackjackwf\obj\Debug\blackjackwf.exe
+C:\Users\disrct\Desktop\blackjackwf\blackjackwf\obj\Debug\blackjackwf.pdb

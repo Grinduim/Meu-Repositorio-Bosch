@@ -1,0 +1,9 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\area with forms\area with forms\bin\Debug\area with forms.exe.config
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\area with forms\area with forms\bin\Debug\area with forms.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\area with forms\area with forms\bin\Debug\area with forms.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\area with forms\area with forms\obj\Debug\area with forms.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\area with forms\area with forms\obj\Debug\area_with_forms.interface.resources
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\area with forms\area with forms\obj\Debug\area with forms.csproj.GenerateResource.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\area with forms\area with forms\obj\Debug\area with forms.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\area with forms\area with forms\obj\Debug\area with forms.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\area with forms\area with forms\obj\Debug\area with forms.pdb

@@ -1,0 +1,6 @@
+nome, valor, imposto
+luis/1000/ISENTO
+vini/2000/7,5%
+algeu/3000/15,0%
+bruno/4000/22,5%
+alexandre/5000/27,5%

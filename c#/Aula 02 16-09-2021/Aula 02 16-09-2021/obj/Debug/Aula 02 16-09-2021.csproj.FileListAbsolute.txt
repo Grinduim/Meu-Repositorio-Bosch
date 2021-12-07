@@ -1,0 +1,7 @@
+C:\Users\disrct\source\repos\Aula 02 16-09-2021\Aula 02 16-09-2021\obj\Debug\Aula 02 16-09-2021.csproj.AssemblyReference.cache
+C:\Users\disrct\source\repos\Aula 02 16-09-2021\Aula 02 16-09-2021\obj\Debug\Aula 02 16-09-2021.csproj.CoreCompileInputs.cache
+C:\Users\disrct\source\repos\Aula 02 16-09-2021\Aula 02 16-09-2021\bin\Debug\Aula 02 16-09-2021.exe.config
+C:\Users\disrct\source\repos\Aula 02 16-09-2021\Aula 02 16-09-2021\bin\Debug\Aula 02 16-09-2021.exe
+C:\Users\disrct\source\repos\Aula 02 16-09-2021\Aula 02 16-09-2021\bin\Debug\Aula 02 16-09-2021.pdb
+C:\Users\disrct\source\repos\Aula 02 16-09-2021\Aula 02 16-09-2021\obj\Debug\Aula 02 16-09-2021.exe
+C:\Users\disrct\source\repos\Aula 02 16-09-2021\Aula 02 16-09-2021\obj\Debug\Aula 02 16-09-2021.pdb

@@ -1,0 +1,12 @@
+Nome: Luis
+Idade: 18
+CPF: 123456789
+
+Nome: Carlo
+Idade: 17
+CPF: 789456123
+
+Nome: Leo
+Idade: 19
+CPF: 456123123
+

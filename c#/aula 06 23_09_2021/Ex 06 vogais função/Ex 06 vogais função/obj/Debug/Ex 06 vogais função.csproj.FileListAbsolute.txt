@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\Ex 06 vogais função\Ex 06 vogais função\bin\Debug\Ex 06 vogais função.exe.config
+C:\Users\disrct\Desktop\Ex 06 vogais função\Ex 06 vogais função\bin\Debug\Ex 06 vogais função.exe
+C:\Users\disrct\Desktop\Ex 06 vogais função\Ex 06 vogais função\bin\Debug\Ex 06 vogais função.pdb
+C:\Users\disrct\Desktop\Ex 06 vogais função\Ex 06 vogais função\obj\Debug\Ex 06 vogais função.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Ex 06 vogais função\Ex 06 vogais função\obj\Debug\Ex 06 vogais função.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Ex 06 vogais função\Ex 06 vogais função\obj\Debug\Ex 06 vogais função.exe
+C:\Users\disrct\Desktop\Ex 06 vogais função\Ex 06 vogais função\obj\Debug\Ex 06 vogais função.pdb

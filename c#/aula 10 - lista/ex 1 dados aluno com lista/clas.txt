@@ -1,0 +1,37 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace teste
+{
+    struct Aluno
+    {
+        private string Nome;
+        private string Endereço;
+        private string Telefone;
+
+        public Aluno(string nome, string endeço, string telefone)
+        {
+            this.Nome = nome;
+            this.Endereço = endeço;
+            this.Telefone = telefone;
+        }
+
+        public  string GetNome()
+        {
+            return Nome;
+        }
+
+       public string GetEndeço()
+        {
+            return Endereço;
+        }
+
+        public string GetTelefone()
+        {
+            return Telefone;
+        }
+    }
+}

@@ -1,0 +1,14 @@
+C:\Users\disrct\Desktop\aula 08 acesso e encapsulamento\aula 08\obj\Debug\aula 08 acessos e encapsulamento.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\aula 08 acesso e encapsulamento\aula 08\obj\Debug\aula 08 acessos e encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\aula 08 acesso e encapsulamento\aula 08\bin\Debug\aula 08.exe.config
+C:\Users\disrct\Desktop\aula 08 acesso e encapsulamento\aula 08\bin\Debug\aula 08.exe
+C:\Users\disrct\Desktop\aula 08 acesso e encapsulamento\aula 08\bin\Debug\aula 08.pdb
+C:\Users\disrct\Desktop\aula 08 acesso e encapsulamento\aula 08\obj\Debug\aula 08.exe
+C:\Users\disrct\Desktop\aula 08 acesso e encapsulamento\aula 08\obj\Debug\aula 08.pdb
+C:\Users\disrct\Desktop\Aula 08 - encapsulamento, acessos e contrutores\acessos capsulas e contrutor\aula 08\bin\Debug\aula 08.exe.config
+C:\Users\disrct\Desktop\Aula 08 - encapsulamento, acessos e contrutores\acessos capsulas e contrutor\aula 08\bin\Debug\aula 08.exe
+C:\Users\disrct\Desktop\Aula 08 - encapsulamento, acessos e contrutores\acessos capsulas e contrutor\aula 08\bin\Debug\aula 08.pdb
+C:\Users\disrct\Desktop\Aula 08 - encapsulamento, acessos e contrutores\acessos capsulas e contrutor\aula 08\obj\Debug\aula 08 acessos e encapsulamento.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Aula 08 - encapsulamento, acessos e contrutores\acessos capsulas e contrutor\aula 08\obj\Debug\aula 08 acessos e encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Aula 08 - encapsulamento, acessos e contrutores\acessos capsulas e contrutor\aula 08\obj\Debug\aula 08.exe
+C:\Users\disrct\Desktop\Aula 08 - encapsulamento, acessos e contrutores\acessos capsulas e contrutor\aula 08\obj\Debug\aula 08.pdb

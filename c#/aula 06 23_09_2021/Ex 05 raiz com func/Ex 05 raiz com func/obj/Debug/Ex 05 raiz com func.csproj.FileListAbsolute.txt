@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\Ex 05 raiz com func\Ex 05 raiz com func\bin\Debug\Ex 05 raiz com func.exe.config
+C:\Users\disrct\Desktop\Ex 05 raiz com func\Ex 05 raiz com func\bin\Debug\Ex 05 raiz com func.exe
+C:\Users\disrct\Desktop\Ex 05 raiz com func\Ex 05 raiz com func\bin\Debug\Ex 05 raiz com func.pdb
+C:\Users\disrct\Desktop\Ex 05 raiz com func\Ex 05 raiz com func\obj\Debug\Ex 05 raiz com func.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Ex 05 raiz com func\Ex 05 raiz com func\obj\Debug\Ex 05 raiz com func.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Ex 05 raiz com func\Ex 05 raiz com func\obj\Debug\Ex 05 raiz com func.exe
+C:\Users\disrct\Desktop\Ex 05 raiz com func\Ex 05 raiz com func\obj\Debug\Ex 05 raiz com func.pdb

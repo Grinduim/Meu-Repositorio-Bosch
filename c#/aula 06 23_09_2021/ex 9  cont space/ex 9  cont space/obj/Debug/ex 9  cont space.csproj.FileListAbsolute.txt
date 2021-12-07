@@ -1,0 +1,6 @@
+C:\Users\disrct\Desktop\ex 9  cont space\ex 9  cont space\bin\Debug\ex 9  cont space.exe.config
+C:\Users\disrct\Desktop\ex 9  cont space\ex 9  cont space\bin\Debug\ex 9  cont space.exe
+C:\Users\disrct\Desktop\ex 9  cont space\ex 9  cont space\bin\Debug\ex 9  cont space.pdb
+C:\Users\disrct\Desktop\ex 9  cont space\ex 9  cont space\obj\Debug\ex 9  cont space.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\ex 9  cont space\ex 9  cont space\obj\Debug\ex 9  cont space.exe
+C:\Users\disrct\Desktop\ex 9  cont space\ex 9  cont space\obj\Debug\ex 9  cont space.pdb

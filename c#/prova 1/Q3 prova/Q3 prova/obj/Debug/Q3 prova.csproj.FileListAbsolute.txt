@@ -1,0 +1,14 @@
+C:\Users\disrct\Desktop\Q3 prova\Q3 prova\bin\Debug\Q3 prova.exe.config
+C:\Users\disrct\Desktop\Q3 prova\Q3 prova\bin\Debug\Q3 prova.exe
+C:\Users\disrct\Desktop\Q3 prova\Q3 prova\bin\Debug\Q3 prova.pdb
+C:\Users\disrct\Desktop\Q3 prova\Q3 prova\obj\Debug\Q3 prova.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Q3 prova\Q3 prova\obj\Debug\Q3 prova.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Q3 prova\Q3 prova\obj\Debug\Q3 prova.exe
+C:\Users\disrct\Desktop\Q3 prova\Q3 prova\obj\Debug\Q3 prova.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\prova 1\Q3 prova\Q3 prova\bin\Debug\Q3 prova.exe.config
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\prova 1\Q3 prova\Q3 prova\bin\Debug\Q3 prova.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\prova 1\Q3 prova\Q3 prova\bin\Debug\Q3 prova.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\prova 1\Q3 prova\Q3 prova\obj\Debug\Q3 prova.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\prova 1\Q3 prova\Q3 prova\obj\Debug\Q3 prova.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\prova 1\Q3 prova\Q3 prova\obj\Debug\Q3 prova.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\prova 1\Q3 prova\Q3 prova\obj\Debug\Q3 prova.pdb

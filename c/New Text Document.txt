@@ -1,0 +1,39 @@
+#include <stdio.h> // strandart in out
+#include <stdlib.h>// strandart library 
+#include <math.h> // funções math
+#include <locale.h> // title case
+void chute(int num, int *tentativas)
+{
+	printf("\nAaaah %d e %d", num, *tentativas);
+
+*tentativas = *tentativas +1;
+	
+}
+
+int main() {
+  
+	int num = 3;
+	int *tentativas;
+	*tentativas = num;
+
+
+ chute(num, tentativas);
+
+ chute(num, tentativas);
+
+}
+
+int main(){
+
+	int num = 3;
+	int tentativas = 0;
+	chute(num, &tentativas);
+}
+
+void chute(int num, int *tentativas)
+{
+	printf("\nAaaah %d e %d", num, *tentativas);
+
+	*tentativas = *tentativas + 1;
+	
+}

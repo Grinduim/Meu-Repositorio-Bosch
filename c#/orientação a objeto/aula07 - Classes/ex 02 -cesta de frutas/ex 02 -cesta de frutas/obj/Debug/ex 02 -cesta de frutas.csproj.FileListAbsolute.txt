@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\ex 02 -cesta de frutas\ex 02 -cesta de frutas\obj\Debug\ex 02 -cesta de frutas.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\ex 02 -cesta de frutas\ex 02 -cesta de frutas\obj\Debug\ex 02 -cesta de frutas.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\ex 02 -cesta de frutas\ex 02 -cesta de frutas\bin\Debug\ex 02 -cesta de frutas.exe.config
+C:\Users\disrct\Desktop\ex 02 -cesta de frutas\ex 02 -cesta de frutas\bin\Debug\ex 02 -cesta de frutas.exe
+C:\Users\disrct\Desktop\ex 02 -cesta de frutas\ex 02 -cesta de frutas\bin\Debug\ex 02 -cesta de frutas.pdb
+C:\Users\disrct\Desktop\ex 02 -cesta de frutas\ex 02 -cesta de frutas\obj\Debug\ex 02 -cesta de frutas.exe
+C:\Users\disrct\Desktop\ex 02 -cesta de frutas\ex 02 -cesta de frutas\obj\Debug\ex 02 -cesta de frutas.pdb

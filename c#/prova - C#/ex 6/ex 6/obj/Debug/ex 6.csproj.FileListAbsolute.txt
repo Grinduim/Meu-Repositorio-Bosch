@@ -1,0 +1,7 @@
+C:\Users\disrct\source\repos\ex 6\ex 6\bin\Debug\ex 6.exe.config
+C:\Users\disrct\source\repos\ex 6\ex 6\bin\Debug\ex 6.exe
+C:\Users\disrct\source\repos\ex 6\ex 6\bin\Debug\ex 6.pdb
+C:\Users\disrct\source\repos\ex 6\ex 6\obj\Debug\ex 6.csproj.AssemblyReference.cache
+C:\Users\disrct\source\repos\ex 6\ex 6\obj\Debug\ex 6.csproj.CoreCompileInputs.cache
+C:\Users\disrct\source\repos\ex 6\ex 6\obj\Debug\ex 6.exe
+C:\Users\disrct\source\repos\ex 6\ex 6\obj\Debug\ex 6.pdb

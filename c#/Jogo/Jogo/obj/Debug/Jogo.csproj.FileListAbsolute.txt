@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\Jogo\Jogo\bin\Debug\Jogo.exe.config
+C:\Users\disrct\Desktop\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\disrct\Desktop\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\disrct\Desktop\Jogo\Jogo\obj\Debug\Jogo.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\Jogo\Jogo\obj\Debug\Jogo.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\Jogo\Jogo\obj\Debug\Jogo.exe
+C:\Users\disrct\Desktop\Jogo\Jogo\obj\Debug\Jogo.pdb

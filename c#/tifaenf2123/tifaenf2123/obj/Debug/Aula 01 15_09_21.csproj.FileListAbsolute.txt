@@ -1,0 +1,7 @@
+C:\Users\disrct\source\repos\tifaenf2123\tifaenf2123\obj\Debug\Aula 01 15_09_21.csproj.AssemblyReference.cache
+C:\Users\disrct\source\repos\tifaenf2123\tifaenf2123\obj\Debug\Aula 01 15_09_21.csproj.CoreCompileInputs.cache
+C:\Users\disrct\source\repos\tifaenf2123\tifaenf2123\obj\Debug\tifaenf2123.exe
+C:\Users\disrct\source\repos\tifaenf2123\tifaenf2123\obj\Debug\tifaenf2123.pdb
+C:\Users\disrct\source\repos\tifaenf2123\tifaenf2123\bin\Debug\tifaenf2123.exe.config
+C:\Users\disrct\source\repos\tifaenf2123\tifaenf2123\bin\Debug\tifaenf2123.exe
+C:\Users\disrct\source\repos\tifaenf2123\tifaenf2123\bin\Debug\tifaenf2123.pdb

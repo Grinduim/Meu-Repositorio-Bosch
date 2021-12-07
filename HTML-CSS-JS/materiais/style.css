@@ -1,0 +1,61 @@
+
+.contaniner-menu
+{
+    display: flex;
+    margin: 0;
+}
+
+.amarelo{
+    background-color:yellow;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    margin: 20px;
+    padding: 5px;
+    width: 80px;
+}
+
+.vermelho
+{
+    background-color:red;
+    text-align: center;
+    text-decoration: none;
+    margin: 20px;
+    padding: 5px;
+    width: 80px;
+}
+
+.verde
+{
+    background-color: green;
+    text-align: center;
+    text-decoration: none;
+    margin: 20px;
+    padding: 5px;
+    width: 80px;
+}
+
+#msg
+{
+    text-decoration: none;
+    padding: 20px;
+    background-color: grey;
+    display: flex;
+    margin: 50px;
+    text-align: center;
+}
+
+.perigo
+{
+    background-color: red;
+}
+
+.atencao
+{
+    background-color: yellow;
+}
+
+.sucesso
+{
+    background-color: green;
+}

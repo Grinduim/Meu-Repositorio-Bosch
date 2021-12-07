@@ -1,0 +1,7 @@
+C:\Users\disrct\Desktop\prova\ex3\ex3\bin\Debug\ex3.exe.config
+C:\Users\disrct\Desktop\prova\ex3\ex3\bin\Debug\ex3.exe
+C:\Users\disrct\Desktop\prova\ex3\ex3\bin\Debug\ex3.pdb
+C:\Users\disrct\Desktop\prova\ex3\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\prova\ex3\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\prova\ex3\ex3\obj\Debug\ex3.exe
+C:\Users\disrct\Desktop\prova\ex3\ex3\obj\Debug\ex3.pdb

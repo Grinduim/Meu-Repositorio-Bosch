@@ -1,0 +1,6 @@
+C:\Users\disrct\Desktop\ex 10 num primos func\ex 10 num primos func\bin\Debug\ex 10 num primos func.exe.config
+C:\Users\disrct\Desktop\ex 10 num primos func\ex 10 num primos func\bin\Debug\ex 10 num primos func.exe
+C:\Users\disrct\Desktop\ex 10 num primos func\ex 10 num primos func\bin\Debug\ex 10 num primos func.pdb
+C:\Users\disrct\Desktop\ex 10 num primos func\ex 10 num primos func\obj\Debug\ex 10 num primos func.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\ex 10 num primos func\ex 10 num primos func\obj\Debug\ex 10 num primos func.exe
+C:\Users\disrct\Desktop\ex 10 num primos func\ex 10 num primos func\obj\Debug\ex 10 num primos func.pdb

@@ -1,0 +1,7 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\Aula 04 21_09_21\Aula 04 21_09_21\obj\Debug\Aula 04 21_09_21.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\Aula 04 21_09_21\Aula 04 21_09_21\obj\Debug\Aula 04 21_09_21.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\Aula 04 21_09_21\Aula 04 21_09_21\bin\Debug\Aula 04 21_09_21.exe.config
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\Aula 04 21_09_21\Aula 04 21_09_21\bin\Debug\Aula 04 21_09_21.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\Aula 04 21_09_21\Aula 04 21_09_21\bin\Debug\Aula 04 21_09_21.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\Aula 04 21_09_21\Aula 04 21_09_21\obj\Debug\Aula 04 21_09_21.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\5 - Desenvolvimento de Sistemas\Vinicius Gribel\c#\Aula 04 21_09_21\Aula 04 21_09_21\obj\Debug\Aula 04 21_09_21.pdb
