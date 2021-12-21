@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> </title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+        <center><h2>Cadastro de Fornecedores</h2></center>
+        
+        <!--  Terminar essa parte do codigo aqui amanha!-->
+            <center>
+                <form class="container">
+                    <label for="Nome" class="labels">Nome: </label>
+                    <input type="text" name="Nome" id="Nome" class="inputs" size="30%" minlength="3" required>
+
+                    <br>
+
+                    <label for="cpf" class="labels">CPF: </label>
+                    <input type="tel" name="cpf" id="cpf" maxlength="14" minlength="14" required size="35px" class="inputs"  > <label>(Com pontuação)</label>
+                    <br>
+                    <br>
+                    <label class="labels">Sexo:</label>
+                    <input type="radio" name="sexo" id="masc" class="dados">
+                    <label for="masc">Masculino</label>
+             
+                    <input type="radio" name="sexo" id="fem" class="dados">
+                    <label for="fem">Feminino</label>
+
+                    <input type="radio" name="sexo" id="outros">
+                    <label for="sexo">Prefiro não informar</label>
+
+                    <br>
+
+                    <label for="email" class="labels">E-mail: </label>
+                    <input type="email" id="email" name="email" size="50px" class="inputs" required>
+                    
+                    <br>
+
+                    <label for="tel" class="labels">Telefone: </label>
+                    <input type="tel" name="tel" id="tel" class="inputs" maxlength='11' size="50px" required>
+
+                    <br>
+
+                    <label for="data" class="labels">Data de Nascimento: </label>
+                    <input type="date" id="data" name = "aniversario" class="dados" required>
+
+                    <br>
+
+                    <label for="end" class="labels">Endereço:</label>
+                    <input type="text" name="end" id="end" class="inputs" size="65px" minlength="10">
+                    
+                    <br>
+
+                    <label for="num" class="labels">Numero:</label>
+                    <input type="number" name="num" id="num" min="1" class="inputs">
+                    
+                    <label for="cep" class="labels" >CEP:</label>
+                    <input type="text" minlength="9" maxlength="9" name="cep" id="cep" class="inputs">
+
+                    
+                    <center>
+                        <div class="botoes">
+                            <input type="submit" value="submit" class="btn" size="10px"> 
+                            <input type="reset" value="reset" class="btn">
+                        </div>
+                     </center>
+                    
+                    
+                </form>
+            </center>
+    </div>
+</body>
+</html>

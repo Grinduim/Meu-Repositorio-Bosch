@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="formulario.css" media="screen">
+    <title>Exemplo de Formulário</title>
+</head>
+<body>
+    <div> 
+        <h1 id="titulo"> Cadastro de Alunos</h1>
+        <p id="subtitulo">Complete suas Informações</p>
+        <br>
+    </div>
+    <form>
+        <fieldset class="grupo">
+            <div class="campo">
+                <label for="nome"><strong>Nome</strong></label>
+                <input type="text" name="Nome" id="nome" required>       
+            </div>
+
+            <div class="campo">
+                <label for="sobrenome"> <strong>Sobrenome</strong></label>
+                <input type="text" name="sobrenome" id="sobrenome" required>
+            </div>
+        </fieldset>
+        <div class="campo">
+            <label for="email"><strong>E-mail</strong></label>
+            <input type="email" name="email" id="email" required>
+        </div>
+        <div class="campo">
+            <label><strong>Sexo</strong></label>
+            <label>
+                <input type="radio" name="sexo" value="masculino">Masculino
+            </label>
+            <label>
+                <input type="radio" name="sexo" value="feminino">Feminino
+            </label>
+        </div>
+        <div class="campo">
+            <label for="unidade"><strong>Unidade</strong></label>
+            <select id="unidade">
+                <option selected disabled value="">Selecione a Unidade</option>
+                <option>Celso Charuri</option>
+                <option>CIC</option>
+                <option>São José dos Pinhais</option>
+            </select>
+        </div> 
+        <fieldset class="grupo">
+            <div id="check">
+                <label><strong>Selecione os Cursos Desejados</strong></label><br><br>
+                <input type="checkbox" id="curso1" name="curso1" value="HTML">
+                <label for="curso1">HTML</label>
+                <input type="checkbox" id="curso2" name="curso2" value="CSS">
+                <label for="curso2">CSS</label>
+                <input type="checkbox" id="curso3" name="curso3" value="C#">
+                <label for="curso3">C#</label>
+                <input type="checkbox" id="curso4" name="curso4" value="Mecatronica">
+                <label for="curso4">Mecatronica</label>
+            </div>
+        </fieldset>
+        <div class="campo">
+            <br>
+            <label><strong> Conte-nos quais suas aspirações profissionais</strong></label>
+            <textarea rows="3" style="width:26em" id="aspiracao" name="aspiracao"></textarea>
+        </div>
+
+        <button type="submit" class="botao">Concluir</button>
+
+    </form>
+
+</body>
+</html>

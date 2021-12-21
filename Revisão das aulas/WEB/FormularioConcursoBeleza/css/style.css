@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+.centro{
+    background-color: aquamarine;
+    margin-top: 3%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding-bottom: 20px ;
+    padding-top: 20px ;
+    border-radius: 15px;
+}
+.dados
+{
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-align: right;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    right: 100%;
+
+}
+
+body{
+    left: 50%;
+    right: 50%;
+}

@@ -1,0 +1,35 @@
+body
+{
+    color: #3E6680;
+    left: 50%;
+    right: 50%;
+}
+
+.inputs{
+
+    margin-left: 0.5em;
+    margin-top: 0.7em;
+    margin-bottom: 0.7em;
+}
+
+.labels
+{
+    margin-left: 2em;
+    color: #00487C;
+}
+
+.container{
+    background-color: #4BB3FD ;
+    border-radius: 15px;
+    text-align: start;
+    width: 50%;
+}
+
+.btn{
+    margin-top: 0.7em;
+    margin-bottom: 0.7em;
+}
+
+.botoes{
+    display: inline-flexbox;
+}
