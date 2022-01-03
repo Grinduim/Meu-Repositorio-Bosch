@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 1\Calculadora if-else\Calculadora if-else\bin\Debug\Calculadora if-else.exe.config
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 1\Calculadora if-else\Calculadora if-else\bin\Debug\Calculadora if-else.exe
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 1\Calculadora if-else\Calculadora if-else\bin\Debug\Calculadora if-else.pdb
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 1\Calculadora if-else\Calculadora if-else\obj\Debug\Calculadora if-else.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 1\Calculadora if-else\Calculadora if-else\obj\Debug\Calculadora if-else.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 1\Calculadora if-else\Calculadora if-else\obj\Debug\Calculadora if-else.exe
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 1\Calculadora if-else\Calculadora if-else\obj\Debug\Calculadora if-else.pdb
