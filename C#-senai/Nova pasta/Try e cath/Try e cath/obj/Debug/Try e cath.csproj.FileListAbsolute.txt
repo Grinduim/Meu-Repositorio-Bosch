@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Try e cath\Try e cath\bin\Debug\Try e cath.exe.config
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Try e cath\Try e cath\bin\Debug\Try e cath.exe
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Try e cath\Try e cath\bin\Debug\Try e cath.pdb
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Try e cath\Try e cath\obj\Debug\Try e cath.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Try e cath\Try e cath\obj\Debug\Try e cath.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Try e cath\Try e cath\obj\Debug\Try e cath.exe
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Try e cath\Try e cath\obj\Debug\Try e cath.pdb
