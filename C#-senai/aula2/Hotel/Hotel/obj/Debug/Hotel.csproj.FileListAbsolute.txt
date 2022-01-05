@@ -1,7 +1,0 @@
-C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotel\Hotel\bin\Debug\Hotel.exe.config
-C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotel\Hotel\bin\Debug\Hotel.exe
-C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotel\Hotel\bin\Debug\Hotel.pdb
-C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
-C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotel\Hotel\obj\Debug\Hotel.exe
-C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotel\Hotel\obj\Debug\Hotel.pdb
-C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotel\Hotel\obj\Debug\Hotel.csproj.AssemblyReference.cache

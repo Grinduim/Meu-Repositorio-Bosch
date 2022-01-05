@@ -1,0 +1,7 @@
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotelaria\Hotelaria\bin\Debug\Hotelaria.exe.config
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotelaria\Hotelaria\bin\Debug\Hotelaria.exe
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotelaria\Hotelaria\bin\Debug\Hotelaria.pdb
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotelaria\Hotelaria\obj\Debug\Hotelaria.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotelaria\Hotelaria\obj\Debug\Hotelaria.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotelaria\Hotelaria\obj\Debug\Hotelaria.exe
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula2\Hotelaria\Hotelaria\obj\Debug\Hotelaria.pdb
