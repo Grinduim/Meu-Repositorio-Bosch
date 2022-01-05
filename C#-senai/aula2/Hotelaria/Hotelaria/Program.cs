@@ -19,7 +19,7 @@ namespace Hotel
             {
                 try
                 {
-
+                    // print menu
                     Console.WriteLine("[1] - Fazer reserva \n[2] - Alterar datas da Reserva\n[3] - Mostrar Todas Reservas\n[4] - Sair\nR:");
                     opc = int.Parse(Console.ReadLine());
 
@@ -58,10 +58,12 @@ namespace Hotel
                     Console.WriteLine("\nInsira o numero do quarto: ");
                     TempQuarto = int.Parse(Console.ReadLine());
 
-                    Console.WriteLine("\n Qual da Data de entrada ? Formato dd/MM/yyyy ");
-                    TempEntrada = DateTime.Parse(Console.ReadLine(), new CultureInfo("pt-BR"));
 
-                    Console.WriteLine("\n Qual a data de saida ? Formato dd/MM/yyyy ");
+                    Console.WriteLine("\nQual da Data de entrada ? Formato dd/MM/yyyy ");
+                    TempEntrada = DateTime.Parse(Console.ReadLine(), new CultureInfo("pt-BR"));
+                    // convertendo as string em DateTime e  informando a CultureInfo
+
+                    Console.WriteLine("\nQual a data de saida ? Formato dd/MM/yyyy ");
                     TempSaida = DateTime.Parse(Console.ReadLine(), new CultureInfo("pt-BR"));
 
 
@@ -73,6 +75,7 @@ namespace Hotel
                     }
                     else
                     {
+                        // mensagem que os dados inseridos foram invalidos
                         Console.WriteLine("\n");
                         Console.WriteLine($"Não foi possivel atualizar a reserva, algum dados está errado.\n LEMBRETE: A data de saida deve ser superior da data de Entrada e a data de entrada deve ser superior a data Atual");
                         Console.WriteLine("\n\nPrecione qualquer tecla para continuar");
@@ -101,6 +104,7 @@ namespace Hotel
                 {
                     Console.WriteLine("\n Qual da Data de entrada ? Formato dd/MM/yyyy ");
                     TempEntrada = DateTime.Parse(Console.ReadLine(), new CultureInfo("pt-BR"));
+                    // convertendo as string em DateTime e  informando a CultureInfo
 
                     Console.WriteLine("\n Qual a data de saida ? Formato dd/MM/yyyy ");
                     TempSaida = DateTime.Parse(Console.ReadLine(), new CultureInfo("pt-BR"));
@@ -108,10 +112,12 @@ namespace Hotel
                     if (TempEntrada > DataAtual && TempSaida > TempEntrada)
                     {
                         Reservation.ChangeReservation(TempEntrada, TempSaida);
+                        //chamando a função na classe que muda a instancia 
                         break;
                     }
                     else
                     {
+                        // mensagem de erro
                         Console.WriteLine("\n");
                         Console.WriteLine($"Não foi possivel atualizar a reserva, algum dados está errado.\nLEMBRETE: A data de saida deve ser superior da data de Entrada e a data de entrada deve ser superior a data Atual");
                         Console.WriteLine("\n\nPrecione qualquer tecla para continuar");
@@ -132,12 +138,13 @@ namespace Hotel
 
         static void Main(string[] args)
         {
-            List<SistemaDeReserva> Reservations = new List<SistemaDeReserva>();
+            List<SistemaDeReserva> Reservations = new List<SistemaDeReserva>(); // lista para armazenar os dados 
+
             int w1 = 1;
             while (w1 ==1)
             {
                 int opc = Menu();
-                Task.Delay(1000);
+                Task.Delay(2500);
                 Console.Clear();
 
                 switch (opc)
@@ -151,11 +158,11 @@ namespace Hotel
                         Console.WriteLine("\n Qual o numero do quarto que você quer alterar ?");
                         int NumberRoom = int.Parse(Console.ReadLine());
 
-                        for (int NumberReservation = 0; NumberReservation < Reservations.Count; NumberReservation++)
+                        for (int NumberReservation = 0; NumberReservation < Reservations.Count; NumberReservation++) // for  run reservation in lists
                         {
                             if (Reservations[NumberReservation].Room == NumberRoom)
                             {
-                                Reservations[NumberReservation] = ChangeReservation(Reservations[NumberReservation]);
+                                Reservations[NumberReservation] = ChangeReservation(Reservations[NumberReservation]); // if found room change a reservation
 
                                 Console.WriteLine("\nReserva alterada!");
                                 Task.Delay(1500);
@@ -173,6 +180,7 @@ namespace Hotel
 
                         foreach(SistemaDeReserva Reservation in Reservations)
                         {
+                            // print reservas
                             Console.WriteLine($"\n Room:{Reservation.Room}\nCheckIn: {Reservation.CheckIn.ToString("dd/MM/yyyy")}\nCheckout: {Reservation.CheckOut.ToString("dd/MM/yyyy")}\nTotal de dias: {Reservation.TotalDays}");
                             Console.WriteLine("---------------------");
                         }
@@ -187,7 +195,6 @@ namespace Hotel
                         break;
         
                 }
-
             }
         }
     }

@@ -22,4 +22,5 @@ void loop() {
   delay(TempoDeEspera);
   digitalWrite(Pisca,LOW);
   delay(TempoDeEspera);
+  delay(800);
 }
