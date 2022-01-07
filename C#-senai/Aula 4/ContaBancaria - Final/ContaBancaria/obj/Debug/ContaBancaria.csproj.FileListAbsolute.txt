@@ -1,0 +1,14 @@
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 3\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 3\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 3\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.pdb
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 3\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 3\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 3\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.exe
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\aula 3\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.pdb
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.pdb
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.exe
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.pdb

@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\C#-senai",
+    "\\C#-senai\\aula 3",
+    "\\C#-senai\\aula 3\\ContaBancaria",
+    "\\C#-senai\\aula 3\\ContaBancaria\\ContaBancaria",
+    "\\C#-senai\\ContaBancaria",
+    "\\C#-senai\\ContaBancaria\\ContaBancaria"
   ],
+  "SelectedNode": "\\C#-senai\\ContaBancaria\\ContaBancaria\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
