@@ -35,13 +35,13 @@ namespace ContaBancaria
                     "\nPlease select a option");
                     int opc = int.Parse(Console.ReadLine());
 
-                    if(opc >= 1 || opc <= 3)
+                    if(opc >= 1 || opc <= 5)
                     {
                         return opc;
                     }
                     else
                     {
-                        Console.WriteLine("\nPlease, select a option between 1 and 3");
+                        Console.WriteLine("\nPlease, select a option between 1 and 5");
                         Console.WriteLine("Press any key to continue");
                         Console.ReadKey();
                         Console.Clear();
