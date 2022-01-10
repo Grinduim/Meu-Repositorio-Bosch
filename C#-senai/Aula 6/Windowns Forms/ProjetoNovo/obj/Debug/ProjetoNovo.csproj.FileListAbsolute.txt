@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\Aula 5\ProjetoNovo\ProjetoNovo\bin\Debug\ProjetoNovo.exe.config
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\Aula 5\ProjetoNovo\ProjetoNovo\bin\Debug\ProjetoNovo.exe
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\Aula 5\ProjetoNovo\ProjetoNovo\bin\Debug\ProjetoNovo.pdb
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\Aula 5\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\Aula 5\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.Form1.resources
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\Aula 5\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.Properties.Resources.resources
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\Aula 5\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\Aula 5\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\Aula 5\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.exe
+C:\Users\aluno\Desktop\Meu-Repositorio-Bosch\C#-senai\Aula 5\ProjetoNovo\ProjetoNovo\obj\Debug\ProjetoNovo.pdb
