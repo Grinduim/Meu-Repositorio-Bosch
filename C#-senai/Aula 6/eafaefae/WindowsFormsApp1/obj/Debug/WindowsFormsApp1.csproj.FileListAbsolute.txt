@@ -1,0 +1,67 @@
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdNet.dll
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Aluno.CCH01LABF012\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\BouncyCastle.Crypto.dll
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.dll
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.dll
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.dll
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Ubiety.Dns.Core.dll
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ZstdNet.dll
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.pdb
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Google.Protobuf.xml
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.xml
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\K4os.Hash.xxHash.xml
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\programação\Meu-Repositorio-Bosch\C#-senai\aula 7 - DB\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
