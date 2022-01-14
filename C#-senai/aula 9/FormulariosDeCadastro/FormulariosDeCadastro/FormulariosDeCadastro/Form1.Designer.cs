@@ -31,6 +31,8 @@ namespace FormulariosDeCadastro
         {
             this.tabControl2 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.Compra = new System.Windows.Forms.MaskedTextBox();
+            this.Venda = new System.Windows.Forms.MaskedTextBox();
             this.Salvar1 = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
             this.Estoque = new System.Windows.Forms.MaskedTextBox();
@@ -39,6 +41,8 @@ namespace FormulariosDeCadastro
             this.label1 = new System.Windows.Forms.Label();
             this.Descricao = new System.Windows.Forms.RichTextBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.BairroF = new System.Windows.Forms.MaskedTextBox();
+            this.CidadeF = new System.Windows.Forms.MaskedTextBox();
             this.SalvarF = new System.Windows.Forms.Button();
             this.label13 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
@@ -61,9 +65,12 @@ namespace FormulariosDeCadastro
             this.label15 = new System.Windows.Forms.Label();
             this.NomeDeU = new System.Windows.Forms.TextBox();
             this.tabPage4 = new System.Windows.Forms.TabPage();
+            this.BairroFo = new System.Windows.Forms.TextBox();
+            this.CidadeFo = new System.Windows.Forms.TextBox();
+            this.SalvarFo = new System.Windows.Forms.Button();
             this.TelefoneFo = new System.Windows.Forms.MaskedTextBox();
             this.label22 = new System.Windows.Forms.Label();
-            this.IN = new System.Windows.Forms.MaskedTextBox();
+            this.IE = new System.Windows.Forms.MaskedTextBox();
             this.label21 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
@@ -73,13 +80,6 @@ namespace FormulariosDeCadastro
             this.EnderecoFo = new System.Windows.Forms.TextBox();
             this.CNPJ = new System.Windows.Forms.MaskedTextBox();
             this.CPFF = new System.Windows.Forms.MaskedTextBox();
-            this.SalvarFo = new System.Windows.Forms.Button();
-            this.Venda = new System.Windows.Forms.MaskedTextBox();
-            this.Compra = new System.Windows.Forms.MaskedTextBox();
-            this.CidadeF = new System.Windows.Forms.MaskedTextBox();
-            this.BairroF = new System.Windows.Forms.MaskedTextBox();
-            this.BairroFo = new System.Windows.Forms.TextBox();
-            this.CidadeFo = new System.Windows.Forms.TextBox();
             this.tabControl2.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -110,13 +110,31 @@ namespace FormulariosDeCadastro
             this.tabPage1.Controls.Add(this.label2);
             this.tabPage1.Controls.Add(this.label1);
             this.tabPage1.Controls.Add(this.Descricao);
-            this.tabPage1.Location = new System.Drawing.Point(4, 25);
+            this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(821, 434);
+            this.tabPage1.Size = new System.Drawing.Size(821, 437);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Produto";
             this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // Compra
+            // 
+            this.Compra.Location = new System.Drawing.Point(137, 65);
+            this.Compra.Mask = "$00000";
+            this.Compra.Name = "Compra";
+            this.Compra.Size = new System.Drawing.Size(100, 20);
+            this.Compra.TabIndex = 10;
+            this.Compra.ValidatingType = typeof(int);
+            // 
+            // Venda
+            // 
+            this.Venda.Location = new System.Drawing.Point(129, 93);
+            this.Venda.Mask = "$0000";
+            this.Venda.Name = "Venda";
+            this.Venda.Size = new System.Drawing.Size(100, 20);
+            this.Venda.TabIndex = 9;
+            this.Venda.ValidatingType = typeof(int);
             // 
             // Salvar1
             // 
@@ -133,7 +151,7 @@ namespace FormulariosDeCadastro
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(20, 117);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(57, 16);
+            this.label4.Size = new System.Drawing.Size(46, 13);
             this.label4.TabIndex = 7;
             this.label4.Text = "Estoque";
             // 
@@ -142,7 +160,7 @@ namespace FormulariosDeCadastro
             this.Estoque.Location = new System.Drawing.Point(126, 114);
             this.Estoque.Mask = "00000";
             this.Estoque.Name = "Estoque";
-            this.Estoque.Size = new System.Drawing.Size(100, 22);
+            this.Estoque.Size = new System.Drawing.Size(100, 20);
             this.Estoque.TabIndex = 6;
             this.Estoque.ValidatingType = typeof(int);
             // 
@@ -151,7 +169,7 @@ namespace FormulariosDeCadastro
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(20, 91);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(103, 16);
+            this.label3.Size = new System.Drawing.Size(83, 13);
             this.label3.TabIndex = 5;
             this.label3.Text = "Preço de venda";
             // 
@@ -160,7 +178,7 @@ namespace FormulariosDeCadastro
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(20, 65);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(111, 16);
+            this.label2.Size = new System.Drawing.Size(88, 13);
             this.label2.TabIndex = 3;
             this.label2.Text = "Preço de compra";
             // 
@@ -169,7 +187,7 @@ namespace FormulariosDeCadastro
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(549, 46);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(69, 16);
+            this.label1.Size = new System.Drawing.Size(55, 13);
             this.label1.TabIndex = 1;
             this.label1.Text = "Descrição";
             // 
@@ -198,13 +216,27 @@ namespace FormulariosDeCadastro
             this.tabPage2.Controls.Add(this.TelefoneF);
             this.tabPage2.Controls.Add(this.label6);
             this.tabPage2.Controls.Add(this.NomeF);
-            this.tabPage2.Location = new System.Drawing.Point(4, 25);
+            this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(821, 434);
+            this.tabPage2.Size = new System.Drawing.Size(821, 437);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Funcionário";
             this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // BairroF
+            // 
+            this.BairroF.Location = new System.Drawing.Point(91, 240);
+            this.BairroF.Name = "BairroF";
+            this.BairroF.Size = new System.Drawing.Size(100, 20);
+            this.BairroF.TabIndex = 20;
+            // 
+            // CidadeF
+            // 
+            this.CidadeF.Location = new System.Drawing.Point(91, 268);
+            this.CidadeF.Name = "CidadeF";
+            this.CidadeF.Size = new System.Drawing.Size(100, 20);
+            this.CidadeF.TabIndex = 19;
             // 
             // SalvarF
             // 
@@ -221,7 +253,7 @@ namespace FormulariosDeCadastro
             this.label13.AutoSize = true;
             this.label13.Location = new System.Drawing.Point(23, 267);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(51, 16);
+            this.label13.Size = new System.Drawing.Size(40, 13);
             this.label13.TabIndex = 17;
             this.label13.Text = "Cidade";
             // 
@@ -230,7 +262,7 @@ namespace FormulariosDeCadastro
             this.label12.AutoSize = true;
             this.label12.Location = new System.Drawing.Point(23, 240);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(43, 16);
+            this.label12.Size = new System.Drawing.Size(34, 13);
             this.label12.TabIndex = 15;
             this.label12.Text = "Bairro";
             // 
@@ -239,7 +271,7 @@ namespace FormulariosDeCadastro
             this.label11.AutoSize = true;
             this.label11.Location = new System.Drawing.Point(22, 214);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(66, 16);
+            this.label11.Size = new System.Drawing.Size(53, 13);
             this.label11.TabIndex = 14;
             this.label11.Text = "Endereço";
             // 
@@ -247,7 +279,7 @@ namespace FormulariosDeCadastro
             // 
             this.EnderecoF.Location = new System.Drawing.Point(91, 211);
             this.EnderecoF.Name = "EnderecoF";
-            this.EnderecoF.Size = new System.Drawing.Size(100, 22);
+            this.EnderecoF.Size = new System.Drawing.Size(100, 20);
             this.EnderecoF.TabIndex = 13;
             // 
             // label10
@@ -255,7 +287,7 @@ namespace FormulariosDeCadastro
             this.label10.AutoSize = true;
             this.label10.Location = new System.Drawing.Point(281, 74);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(110, 16);
+            this.label10.Size = new System.Drawing.Size(88, 13);
             this.label10.TabIndex = 11;
             this.label10.Text = "Setor de trabalho";
             // 
@@ -263,7 +295,7 @@ namespace FormulariosDeCadastro
             // 
             this.SetorF.Location = new System.Drawing.Point(394, 71);
             this.SetorF.Name = "SetorF";
-            this.SetorF.Size = new System.Drawing.Size(100, 22);
+            this.SetorF.Size = new System.Drawing.Size(100, 20);
             this.SetorF.TabIndex = 10;
             // 
             // label9
@@ -271,7 +303,7 @@ namespace FormulariosDeCadastro
             this.label9.AutoSize = true;
             this.label9.Location = new System.Drawing.Point(281, 48);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(118, 16);
+            this.label9.Size = new System.Drawing.Size(92, 13);
             this.label9.TabIndex = 9;
             this.label9.Text = "Data de demissão";
             // 
@@ -280,7 +312,7 @@ namespace FormulariosDeCadastro
             this.DataDemF.Location = new System.Drawing.Point(394, 45);
             this.DataDemF.Mask = "00/00/0000";
             this.DataDemF.Name = "DataDemF";
-            this.DataDemF.Size = new System.Drawing.Size(100, 22);
+            this.DataDemF.Size = new System.Drawing.Size(100, 20);
             this.DataDemF.TabIndex = 8;
             // 
             // label7
@@ -288,7 +320,7 @@ namespace FormulariosDeCadastro
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(22, 77);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(61, 16);
+            this.label7.Size = new System.Drawing.Size(49, 13);
             this.label7.TabIndex = 5;
             this.label7.Text = "Telefone";
             // 
@@ -297,7 +329,7 @@ namespace FormulariosDeCadastro
             this.TelefoneF.Location = new System.Drawing.Point(91, 74);
             this.TelefoneF.Mask = "(99) 00000-0000";
             this.TelefoneF.Name = "TelefoneF";
-            this.TelefoneF.Size = new System.Drawing.Size(100, 22);
+            this.TelefoneF.Size = new System.Drawing.Size(100, 20);
             this.TelefoneF.TabIndex = 4;
             // 
             // label6
@@ -305,7 +337,7 @@ namespace FormulariosDeCadastro
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(22, 51);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(44, 16);
+            this.label6.Size = new System.Drawing.Size(35, 13);
             this.label6.TabIndex = 3;
             this.label6.Text = "Nome";
             // 
@@ -313,7 +345,7 @@ namespace FormulariosDeCadastro
             // 
             this.NomeF.Location = new System.Drawing.Point(91, 48);
             this.NomeF.Name = "NomeF";
-            this.NomeF.Size = new System.Drawing.Size(100, 22);
+            this.NomeF.Size = new System.Drawing.Size(100, 20);
             this.NomeF.TabIndex = 2;
             // 
             // tabPage3
@@ -325,10 +357,10 @@ namespace FormulariosDeCadastro
             this.tabPage3.Controls.Add(this.SenhaU);
             this.tabPage3.Controls.Add(this.label15);
             this.tabPage3.Controls.Add(this.NomeDeU);
-            this.tabPage3.Location = new System.Drawing.Point(4, 25);
+            this.tabPage3.Location = new System.Drawing.Point(4, 22);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(821, 434);
+            this.tabPage3.Size = new System.Drawing.Size(821, 437);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Usuário";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -338,7 +370,7 @@ namespace FormulariosDeCadastro
             this.label16.AutoSize = true;
             this.label16.Location = new System.Drawing.Point(22, 19);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(44, 16);
+            this.label16.Size = new System.Drawing.Size(35, 13);
             this.label16.TabIndex = 15;
             this.label16.Text = "Nome";
             // 
@@ -346,7 +378,7 @@ namespace FormulariosDeCadastro
             // 
             this.NomeU.Location = new System.Drawing.Point(128, 16);
             this.NomeU.Name = "NomeU";
-            this.NomeU.Size = new System.Drawing.Size(100, 22);
+            this.NomeU.Size = new System.Drawing.Size(100, 20);
             this.NomeU.TabIndex = 14;
             // 
             // SalvarU
@@ -364,7 +396,7 @@ namespace FormulariosDeCadastro
             this.label14.AutoSize = true;
             this.label14.Location = new System.Drawing.Point(22, 71);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(46, 16);
+            this.label14.Size = new System.Drawing.Size(38, 13);
             this.label14.TabIndex = 12;
             this.label14.Text = "Senha";
             // 
@@ -372,7 +404,7 @@ namespace FormulariosDeCadastro
             // 
             this.SenhaU.Location = new System.Drawing.Point(128, 68);
             this.SenhaU.Name = "SenhaU";
-            this.SenhaU.Size = new System.Drawing.Size(100, 22);
+            this.SenhaU.Size = new System.Drawing.Size(100, 20);
             this.SenhaU.TabIndex = 11;
             // 
             // label15
@@ -380,7 +412,7 @@ namespace FormulariosDeCadastro
             this.label15.AutoSize = true;
             this.label15.Location = new System.Drawing.Point(22, 45);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(113, 16);
+            this.label15.Size = new System.Drawing.Size(89, 13);
             this.label15.TabIndex = 10;
             this.label15.Text = "Nome de Usuario";
             // 
@@ -388,7 +420,7 @@ namespace FormulariosDeCadastro
             // 
             this.NomeDeU.Location = new System.Drawing.Point(128, 42);
             this.NomeDeU.Name = "NomeDeU";
-            this.NomeDeU.Size = new System.Drawing.Size(100, 22);
+            this.NomeDeU.Size = new System.Drawing.Size(100, 20);
             this.NomeDeU.TabIndex = 9;
             // 
             // tabPage4
@@ -398,7 +430,7 @@ namespace FormulariosDeCadastro
             this.tabPage4.Controls.Add(this.SalvarFo);
             this.tabPage4.Controls.Add(this.TelefoneFo);
             this.tabPage4.Controls.Add(this.label22);
-            this.tabPage4.Controls.Add(this.IN);
+            this.tabPage4.Controls.Add(this.IE);
             this.tabPage4.Controls.Add(this.label21);
             this.tabPage4.Controls.Add(this.label20);
             this.tabPage4.Controls.Add(this.label19);
@@ -408,114 +440,26 @@ namespace FormulariosDeCadastro
             this.tabPage4.Controls.Add(this.EnderecoFo);
             this.tabPage4.Controls.Add(this.CNPJ);
             this.tabPage4.Controls.Add(this.CPFF);
-            this.tabPage4.Location = new System.Drawing.Point(4, 25);
+            this.tabPage4.Location = new System.Drawing.Point(4, 22);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(821, 434);
+            this.tabPage4.Size = new System.Drawing.Size(821, 437);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "Fornecedor";
             this.tabPage4.UseVisualStyleBackColor = true;
             // 
-            // TelefoneFo
+            // BairroFo
             // 
-            this.TelefoneFo.Location = new System.Drawing.Point(327, 143);
-            this.TelefoneFo.Mask = "(99) 00000-0000";
-            this.TelefoneFo.Name = "TelefoneFo";
-            this.TelefoneFo.Size = new System.Drawing.Size(121, 22);
-            this.TelefoneFo.TabIndex = 16;
+            this.BairroFo.Location = new System.Drawing.Point(327, 85);
+            this.BairroFo.Name = "BairroFo";
+            this.BairroFo.Size = new System.Drawing.Size(121, 20);
+            this.BairroFo.TabIndex = 19;
             // 
-            // label22
+            // CidadeFo
             // 
-            this.label22.AutoSize = true;
-            this.label22.Location = new System.Drawing.Point(16, 122);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(20, 16);
-            this.label22.TabIndex = 15;
-            this.label22.Text = "IN";
-            // 
-            // IN
-            // 
-            this.IN.Location = new System.Drawing.Point(89, 118);
-            this.IN.Name = "IN";
-            this.IN.Size = new System.Drawing.Size(121, 22);
-            this.IN.TabIndex = 14;
-            // 
-            // label21
-            // 
-            this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(263, 145);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(61, 16);
-            this.label21.TabIndex = 13;
-            this.label21.Text = "Telefone";
-            // 
-            // label20
-            // 
-            this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(263, 118);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(51, 16);
-            this.label20.TabIndex = 12;
-            this.label20.Text = "Cidade";
-            // 
-            // label19
-            // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(263, 91);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(43, 16);
-            this.label19.TabIndex = 11;
-            this.label19.Text = "Bairro";
-            // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(263, 65);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(66, 16);
-            this.label18.TabIndex = 10;
-            this.label18.Text = "Endereço";
-            // 
-            // label17
-            // 
-            this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(16, 94);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(42, 16);
-            this.label17.TabIndex = 9;
-            this.label17.Text = "CNPJ";
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(16, 72);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(33, 16);
-            this.label5.TabIndex = 8;
-            this.label5.Text = "CPF";
-            // 
-            // EnderecoFo
-            // 
-            this.EnderecoFo.Location = new System.Drawing.Point(327, 62);
-            this.EnderecoFo.Name = "EnderecoFo";
-            this.EnderecoFo.Size = new System.Drawing.Size(121, 22);
-            this.EnderecoFo.TabIndex = 3;
-            // 
-            // CNPJ
-            // 
-            this.CNPJ.Location = new System.Drawing.Point(89, 90);
-            this.CNPJ.Mask = "00.000.000/0000-00";
-            this.CNPJ.Name = "CNPJ";
-            this.CNPJ.Size = new System.Drawing.Size(121, 22);
-            this.CNPJ.TabIndex = 2;
-            // 
-            // CPFF
-            // 
-            this.CPFF.Location = new System.Drawing.Point(89, 64);
-            this.CPFF.Mask = "000.000.000-00";
-            this.CPFF.Name = "CPFF";
-            this.CPFF.Size = new System.Drawing.Size(121, 22);
-            this.CPFF.TabIndex = 1;
-            this.CPFF.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox3_MaskInputRejected);
+            this.CidadeFo.Location = new System.Drawing.Point(327, 113);
+            this.CidadeFo.Name = "CidadeFo";
+            this.CidadeFo.Size = new System.Drawing.Size(121, 20);
+            this.CidadeFo.TabIndex = 18;
             // 
             // SalvarFo
             // 
@@ -527,51 +471,108 @@ namespace FormulariosDeCadastro
             this.SalvarFo.UseVisualStyleBackColor = true;
             this.SalvarFo.Click += new System.EventHandler(this.SalvarFo_Click);
             // 
-            // Venda
+            // TelefoneFo
             // 
-            this.Venda.Location = new System.Drawing.Point(129, 93);
-            this.Venda.Mask = "$0000";
-            this.Venda.Name = "Venda";
-            this.Venda.Size = new System.Drawing.Size(100, 22);
-            this.Venda.TabIndex = 9;
-            this.Venda.ValidatingType = typeof(int);
+            this.TelefoneFo.Location = new System.Drawing.Point(327, 143);
+            this.TelefoneFo.Mask = "(99) 00000-0000";
+            this.TelefoneFo.Name = "TelefoneFo";
+            this.TelefoneFo.Size = new System.Drawing.Size(121, 20);
+            this.TelefoneFo.TabIndex = 16;
             // 
-            // Compra
+            // label22
             // 
-            this.Compra.Location = new System.Drawing.Point(137, 65);
-            this.Compra.Mask = "$00000";
-            this.Compra.Name = "Compra";
-            this.Compra.Size = new System.Drawing.Size(100, 22);
-            this.Compra.TabIndex = 10;
-            this.Compra.ValidatingType = typeof(int);
+            this.label22.AutoSize = true;
+            this.label22.Location = new System.Drawing.Point(16, 122);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(17, 13);
+            this.label22.TabIndex = 15;
+            this.label22.Text = "IE";
             // 
-            // CidadeF
+            // IE
             // 
-            this.CidadeF.Location = new System.Drawing.Point(91, 268);
-            this.CidadeF.Name = "CidadeF";
-            this.CidadeF.Size = new System.Drawing.Size(100, 22);
-            this.CidadeF.TabIndex = 19;
+            this.IE.Location = new System.Drawing.Point(89, 118);
+            this.IE.Name = "IE";
+            this.IE.Size = new System.Drawing.Size(121, 20);
+            this.IE.TabIndex = 14;
             // 
-            // BairroF
+            // label21
             // 
-            this.BairroF.Location = new System.Drawing.Point(91, 240);
-            this.BairroF.Name = "BairroF";
-            this.BairroF.Size = new System.Drawing.Size(100, 22);
-            this.BairroF.TabIndex = 20;
+            this.label21.AutoSize = true;
+            this.label21.Location = new System.Drawing.Point(263, 145);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(49, 13);
+            this.label21.TabIndex = 13;
+            this.label21.Text = "Telefone";
             // 
-            // BairroFo
+            // label20
             // 
-            this.BairroFo.Location = new System.Drawing.Point(327, 85);
-            this.BairroFo.Name = "BairroFo";
-            this.BairroFo.Size = new System.Drawing.Size(121, 22);
-            this.BairroFo.TabIndex = 19;
+            this.label20.AutoSize = true;
+            this.label20.Location = new System.Drawing.Point(263, 118);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(40, 13);
+            this.label20.TabIndex = 12;
+            this.label20.Text = "Cidade";
             // 
-            // CidadeFo
+            // label19
             // 
-            this.CidadeFo.Location = new System.Drawing.Point(327, 113);
-            this.CidadeFo.Name = "CidadeFo";
-            this.CidadeFo.Size = new System.Drawing.Size(121, 22);
-            this.CidadeFo.TabIndex = 18;
+            this.label19.AutoSize = true;
+            this.label19.Location = new System.Drawing.Point(263, 91);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(34, 13);
+            this.label19.TabIndex = 11;
+            this.label19.Text = "Bairro";
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Location = new System.Drawing.Point(263, 65);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(53, 13);
+            this.label18.TabIndex = 10;
+            this.label18.Text = "Endereço";
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Location = new System.Drawing.Point(16, 94);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(34, 13);
+            this.label17.TabIndex = 9;
+            this.label17.Text = "CNPJ";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(16, 72);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(27, 13);
+            this.label5.TabIndex = 8;
+            this.label5.Text = "CPF";
+            // 
+            // EnderecoFo
+            // 
+            this.EnderecoFo.Location = new System.Drawing.Point(327, 62);
+            this.EnderecoFo.Name = "EnderecoFo";
+            this.EnderecoFo.Size = new System.Drawing.Size(121, 20);
+            this.EnderecoFo.TabIndex = 3;
+            // 
+            // CNPJ
+            // 
+            this.CNPJ.Location = new System.Drawing.Point(89, 90);
+            this.CNPJ.Mask = "00.000.000/0000-00";
+            this.CNPJ.Name = "CNPJ";
+            this.CNPJ.Size = new System.Drawing.Size(121, 20);
+            this.CNPJ.TabIndex = 2;
+            this.CNPJ.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.CNPJ_MaskInputRejected);
+            // 
+            // CPFF
+            // 
+            this.CPFF.Location = new System.Drawing.Point(89, 64);
+            this.CPFF.Mask = "000.000.000-00";
+            this.CPFF.Name = "CPFF";
+            this.CPFF.Size = new System.Drawing.Size(121, 20);
+            this.CPFF.TabIndex = 1;
+            this.CPFF.MaskInputRejected += new System.Windows.Forms.MaskInputRejectedEventHandler(this.maskedTextBox3_MaskInputRejected);
             // 
             // Form1
             // 
@@ -632,7 +633,7 @@ namespace FormulariosDeCadastro
         private System.Windows.Forms.MaskedTextBox CPFF;
         private System.Windows.Forms.MaskedTextBox TelefoneFo;
         private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.MaskedTextBox IN;
+        private System.Windows.Forms.MaskedTextBox IE;
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.Label label20;
         private System.Windows.Forms.Label label19;

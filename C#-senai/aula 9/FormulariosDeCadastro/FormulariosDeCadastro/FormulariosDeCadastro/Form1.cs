@@ -24,12 +24,14 @@ namespace FormulariosDeCadastro
             try
             {
                 //dados do banco
-                string data_source = "data-source=localhost;username=root;password=usbw;database=empresa";
+                string data_source = "datasource=localhost;username=root;password=usbw;database=empresa";
 
-                //criando conecao
+                //criando conecao4
                 Connection = new MySqlConnection(data_source);
+
                 // comando de insert
-                string sql =  $"INSERT INTO PRODUTO (descricao,PrecoCompra,PrecoVenda, QtdEstoque) VALUES('{Descricao.Text}','{Compra.Text}','{Venda.Text}','{Estoque}')";
+                string sql =  $"INSERT INTO PRODUTO (Descricao,PrecoCompra,PrecoVenda, QtdEstoque) VALUES('{Descricao.Text}','{Compra.Text}','{Venda.Text}','{Estoque}')";
+
                 MySqlCommand cmd = new MySqlCommand(sql, Connection);
 
                 Connection.Open();// abrindo conecao
@@ -52,7 +54,7 @@ namespace FormulariosDeCadastro
         {
             try
             {
-                string data_source = "data-source=localhost;username=root;password=usbw;database=empresa"; // endereco de criacao
+                string data_source = "datasource=localhost;username=root;password=usbw;database=empresa"; // endereco de criacao
 
                 Connection = new MySqlConnection(data_source); // gerabdo a coneção
 
@@ -85,7 +87,7 @@ namespace FormulariosDeCadastro
             {
                 //configurar qual banco sera acessado com usuario e senha
                 string data_source =
-                "datasource=localhost;username=root;password=usbw;database=db_agenda;";
+                "datasource=localhost;username=root;password=usbw;database=empresa";
                 //criar conexao com o banco de dados
                 Connection = new MySqlConnection(data_source);
                 string sql = "INSERT INTO usuario (nome, nomeUsuario, senha)VALUES('" + NomeU.Text + "', '" + NomeDeU.Text + "', '" + SenhaU.Text +"')";
@@ -107,13 +109,54 @@ namespace FormulariosDeCadastro
 
         private void SalvarFo_Click(object sender, EventArgs e)
         {
-            if(CPFF == null || CNPJ == null)
+            try
             {
-                
+                if (CPFF.Text.Length == 14 || CNPJ.Text.Length == 18)
+                {
+
+                    //configurar qual banco sera acessado com usuario e senha
+                    string data_source =
+                    "datasource=localhost;username=root;password=usbw;database=empresa;";
+                    //criar conexao com o banco de dados
+                    Connection = new MySqlConnection(data_source);
+                    string sql = $"INSERT INTO fornecedor(cpf,cnpj,IE,endereco,bairro,cidade,telefone) VALUES ('{CPFF.Text}', '{CNPJ.Text}','{IE.Text}','{EnderecoFo.Text}','{BairroFo.Text}','{CidadeFo.Text}','{TelefoneFo.Text}')";
+
+                    //Executrar comando mysql
+                    MySqlCommand comando = new MySqlCommand(sql, Connection);
+                    Connection.Open();
+                    comando.ExecuteReader();
+                    MessageBox.Show("Inserido com sucesso");
+
+
+
+                }
+                else if (CPFF.Text.Length == 14 || CNPJ.Text.Length != 18)
+                {
+                    throw new Exception("Erro, o Cnpj dever ser preenchido obrigatoriamente");
+                }
+                else
+                {
+                    throw new Exception("Erro, o cpf ou cnpj devems ser preenchidos");
+                }
+
             }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                Connection.Close();
+            }
+
         }
 
         private void maskedTextBox3_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
+
+        private void CNPJ_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
         {
 
         }
