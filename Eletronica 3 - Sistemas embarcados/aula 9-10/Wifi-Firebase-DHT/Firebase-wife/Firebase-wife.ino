@@ -1,13 +1,7 @@
-#include <common.h>
-#include <Firebase.h>
-#include <FirebaseESP32.h>
-#include <FirebaseFS.h>
-#include <Utils.h>
-
-#include <WiFi.h>
+#include <ESP32WiFi.h>
 #include <FirebaseESP32.h>
 #include <DHT.h>
-#define DHTPIN 27
+#define DHTPIN 4
 #define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
 
@@ -42,6 +36,6 @@ void loop() {
   float t = dht.readTemperature();
   json.set("/temperatura", t);
   json.set("/umidade", h);
-  Firebase.updateNode(firebaseData, "/Sensor/Vinicius", json);
+  Firebase.updateNode(firebaseData, "/Sensor/Alison", json);
 
 }
