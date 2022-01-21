@@ -32,5 +32,5 @@ def InserirBD(sinal):
 
 while(True):
     InserirBD(sinal())
-    time.sleep(60)
+    time.sleep(20)
 

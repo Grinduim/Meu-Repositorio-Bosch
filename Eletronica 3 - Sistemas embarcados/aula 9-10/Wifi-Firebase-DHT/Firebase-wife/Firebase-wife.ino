@@ -7,14 +7,16 @@
 
 #include <WiFi.h>
 
-#define DHTPIN 4
+#define DHTPIN 33
 #define DHTTYPE DHT11
 DHT dht(DHTPIN, DHTTYPE);
 
-#define WIFI_SSID "Vivo-Internet-BF17"
-#define WIFI_PASSWORD "78814222"
+//#define WIFI_SSID "Vivo-Internet-BF17"
+//#define WIFI_PASSWORD "78814222"
+#define WIFI_SSID "Galaxy A318713"
+#define WIFI_PASSWORD "12345678"
 #define FIREBASE_HOST "https://vinicius-dht-default-rtdb.firebaseio.com/" // url da minha pasta
-#define FIREBASE_AUTH "bhEyR05TWfHyXoAzSHgiCj0MfQbdDFsfPTPmxVxB" / token de auth
+#define FIREBASE_AUTH "bhEyR05TWfHyXoAzSHgiCj0MfQbdDFsfPTPmxVxB" // token de auth
 FirebaseData firebaseData;
 FirebaseJson json;
 

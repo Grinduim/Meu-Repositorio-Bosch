@@ -6,9 +6,9 @@ def login():
     senha = input('Digite a sua senha: ')
 
     #iniciando toda a parte de conexão com o BD
-    server = 'DESKTOP-S4T02R7\SQLEXPRESS'
-    database = 'ServiçoBancario'
-    username = 'sa'
+    server = 'JVLPC0581'
+    database = 'ServicoBancario'
+    username = 'vinicius'
     password = 'admin'
     conexao   = pyodbc.connect('DRIVER={SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
 
@@ -21,33 +21,31 @@ def login():
     contas = cursor.fetchall()
 
     for i in range(count):
-        if(conta ==contas[i].Num and conta==contas[i].senha ):
+        if(conta ==contas[i].Num and senha==contas[i].senha ):
             print('Entrou')
         elif (i == count-1):
             print('Senha e Conta incorreto! ')
 
 def cadastrar():
-    conta = input('Insira o numero da conta para fazer login: ' )
+    conta = input('Insira o numero da conta para cadastrar: ' )
     senha = input('Digite a sua senha: ')
-    server = 'DESKTOP-S4T02R7\SQLEXPRESS'
-    database = 'ServiçoBancario'
-    username = 'sa'
+    server = 'JVLPC0581'
+    database = 'ServicoBancario'
+    username = 'vinicius'
     password = 'admin'
-    conexao   = pyodbc.connect('DRIVER={SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+ password)
+    conexao   = pyodbc.connect('DRIVER={ODBC Driver 17 for SQL Server};SERVER='+server+';DATABASE='+database+';UID='+username+';PWD='+password+'')
 
     cursor = conexao.cursor()
-    cursor.execute(f'INSERT INTO CONTA(NUM,SENHA,ACESSO,SALDO) VALUES ({conta},{senha},1,0)')
+    cursor.execute(f'INSERT INTO CONTA(NUM,SENHA,ACESSO,SALDO) VALUES ({conta},{senha},1,200)')
     cursor.commit()
     print('okay')
 
 
 
-opc = int(input('aaa'))
-if(opc ==2):
+opc = 2
+if(opc == 2):
     cadastrar()
-
-   
-login()
+print("saiu")
 
     
 
