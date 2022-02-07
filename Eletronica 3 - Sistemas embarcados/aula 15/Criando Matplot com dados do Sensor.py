@@ -29,9 +29,9 @@ while row:
     row = cursor.fetchone()
 
 
-df = pd.DataFrame({"Temperatura":lista, "Tempo":listatempo})
-df["Tempo"] = pd.to_datetime(df["Tempo"])
-sns.relplot(x = "Tempo", y = "Temperatura", data =df, kind = "line")
+df = pd.DataFrame({"Temperatura":lista, "Tempo":listatempo}) #criando o dataFrame
+df["Tempo"] = pd.to_datetime(df["Tempo"]) #formatando o datetime
+sns.relplot(x = "Tempo", y = "Temperatura", data  =df, kind = "line")
 plt.title("Temperatura por tempo")
 plt.xticks(rotation=90)
 
