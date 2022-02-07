@@ -1,0 +1,54 @@
+CREATE TABLE estado(
+estado_codigo char(2),
+estado_nome varchar(25),
+PRIMARY KEY (estado_codigo)
+)
+
+CREATE TABLE cliente(
+cliente_id int,
+cliente_nome char(50),
+cliente_end char(50),
+cliente_end_cidade char(20),
+estado_codigo char(2),
+cliente_end_cep char(8),
+cliente_telefone char(10),
+cliente_perc_desconto decimal(2,0)
+PRIMARY KEY (cliente_id),
+FOREIGN KEY (estado_codigo) references estado(estado_codigo)
+)
+
+CREATE TABLE pedido(
+pedido_identificacao int,
+pedido_tipo char(20),
+cliente_id int,
+pedido_data_entrada date,
+pedido_valor_total decimal(7,2),
+pedido_desconto decimal(7,2),
+pedido_dt_embarque date,
+check(pedido_tipo in ('a vista','a prazo')),
+PRIMARY KEY (pedido_identificacao),
+FOREIGN KEY (cliente_id) references cliente(cliente_id)
+)
+
+create table ue_produto
+(
+UE_produto_cod char(3) primary key,
+UE_produto_descr varchar(50),
+)
+
+create table produto
+(
+Produto_codigo int primary key,
+Produto_nome char(50),
+Produto_Preco decimal(5,2),
+UE_produto_cod char(3) foreign key references ue_produto(ue_produto_cod)
+)
+
+create table item
+(
+pedido_identificação int foreign key references pedido(pedido_identificacao),
+produot_codigo int foreign key references produto(produto_codigo),
+item_quantidade int,
+item_valor_unitario decimal(5,2),
+item_valor_total decimal(5,2)
+)
